@@ -23,6 +23,9 @@
 - [Top HVAC Contractor Ma in Maynard](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/top-hvac-contractor-ma-in-maynard/): Top HVAC Contractor Ma in Maynard: get clear AC repair help from NATE Certified technicians. Call PerfectTemp to discuss same-day service and emergency availa
 - [Best HVAC Contractor Ma Maynard](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/best-hvac-contractor-ma-maynard/): Best HVAC Contractor Ma Maynard: get AC repair support from NATE Certified technicians in Maynard. Call PerfectTemp to ask about emergency service.
 
+## Newsroom
+- [PerfectTemp Shares Maynard Guide for HVAC Contractor Searches](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/news/2026-11-08-perfecttemp-shares-maynard-guide-for-hvac/): PerfectTemp Heating, Air & Electric has released a guide for Maynard-area readers researching HVAC contractors, with video and audio versions. (2026-11-08)
+
 ## Pages
 - [HVAC Contractor in Maynard, Massachusetts](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/): Get dependable heating and cooling help from a local team serving Maynard, with same-day and emergency service available. Call +1978-830-3444.
 - [About PerfectTemp Heating, Air & Electric](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/about/): About PerfectTemp Heating, Air & Electric, Maynard.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/news/rss.xml)
 - [Main resource site](https://perfecttemp-heating-maynard.localwebsites.chatgpt.site)

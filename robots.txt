@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/sitemap.xml
+Sitemap: https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/news-sitemap.xml
