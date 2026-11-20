@@ -12,10 +12,10 @@
 - HVAC contractor
 
 ## Guides
+- [HVAC Installation Maynard Homeowners Can Plan For](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-installation-maynard/): Plan HVAC Installation Maynard with help from NATE Certified technicians and a family-owned local company. Call PerfectTemp to discuss your home’s needs.
+- [HVAC Contractor Maynard for Local Homeowners](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-contractor-maynard/): HVAC Contractor Maynard service from a family-owned team, with 24-hour availability for AC emergencies. Call PerfectTemp Heating, Air & Electric.
 - [HVAC Repair Maynard Homeowners Can Rely On](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-repair-maynard/): Get HVAC Repair Maynard homeowners can count on, with same-day and emergency service from NATE Certified technicians. Call PerfectTemp today for help.
 - [HVAC Contractor Maynard MA for Homeowners](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-contractor-maynard-ma/): HVAC Contractor Maynard MA help from NATE Certified technicians, with same-day and emergency AC repair available. Call PerfectTemp today.
-- [HVAC Contractor Maynard for Local Homeowners](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-contractor-maynard/): HVAC Contractor Maynard service from a family-owned team, with 24-hour availability for AC emergencies. Call PerfectTemp Heating, Air & Electric.
-- [HVAC Installation Maynard Homeowners Can Plan For](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-installation-maynard/): Plan HVAC Installation Maynard with help from NATE Certified technicians and a family-owned local company. Call PerfectTemp to discuss your home’s needs.
 - [HVAC Replacement Maynard Homeowner Guide](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-replacement-maynard/): Get HVAC Replacement Maynard guidance from NATE-certified technicians and a clearer plan for your home. Call PerfectTemp Heating, Air & Electric in Maynard to
 - [HVAC Maintenance Maynard: A Homeowner’s Guide](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/hvac-maintenance-maynard/): Plan HVAC Maintenance Maynard with NATE-certified technicians and practical help for your home's heating and cooling. Call PerfectTemp today to schedule.
 - [Air Conditioning Repair Maynard Homeowners Can Count On](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/air-conditioning-repair-maynard/): Air Conditioning Repair Maynard from NATE Certified technicians at PerfectTemp Heating, Air & Electric. Get Maynard cooling help; call today to discuss servic
@@ -37,4 +37,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/perfecttemp-heating-air-and-electric-maynard/news/rss.xml)
-- [Main resource site](https://perfecttemp-heating-maynard.localwebsites.chatgpt.site/resources/)
+- [Main resource site](https://perfecttemp-maynard-hvac.localbusinesses1.chatgpt.site)
